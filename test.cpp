@@ -2,6 +2,6 @@
 #include <test/test.h>
 
 int main(){
-	TestCode("Code");
+	TestCode(1337);
 	return 404;
 }
