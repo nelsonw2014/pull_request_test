@@ -1,6 +1,7 @@
 // This is a test
+#include <test/test.h>
 
 int main(){
-	TestCode();
+	TestCode("Code");
 	return 404;
 }
